@@ -20,7 +20,7 @@ def main():
         print("{} is the greater number!".format(number1))
     elif number1 < number2:
         print("{} is the greater number!".format(number2))
-    elif number2 == number2:
+    elif number1 == number2:
         print("The two numbers are equal!")
 
 
